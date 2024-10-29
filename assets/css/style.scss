@@ -53,3 +53,45 @@ aside a.button {
     color: $mycolor;
 
   }
+
+#content-wrapper {
+  display: flex;
+}
+
+#main-content {
+  flex: 1; /* Takes the remaining space */
+  padding: 20px;
+}
+
+#sidebar {
+  width: 250px; /* Adjust width as necessary */
+  padding: 20px;
+  background-color: #f4f4f4; /* Example background color */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.button {
+  display: block; /* Make links appear as buttons */
+  padding: 10px;
+  margin: 5px 0;
+  background-color: #007BFF; /* Example button color */
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: #0056b3; /* Darker on hover */
+}
+
+@media (max-width: 768px) {
+  #content-wrapper {
+    flex-direction: column; /* Stack content on top of each other */
+  }
+
+  #sidebar {
+    width: 100%; /* Full width on small screens */
+    box-shadow: none; /* Optional: Remove shadow */
+  }
+}
