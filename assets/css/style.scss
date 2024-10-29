@@ -24,36 +24,6 @@ aside a.button {
 
 }
 
-#main-content h2:before {
-
-    color: $mycolor;
-
-}
-
-#main-content h1:before {
-
-    color: $mycolor;
-
-}
-
-#main-content h3 {
-
-    color: $mycolor;
-
-  }
-
-  #main-content h4 {
-
-    color: $mycolor;
-
-  }
-
-  #main-content h6 {
-
-    color: $mycolor;
-
-  }
-
 #content-wrapper {
   display: flex;
 }
@@ -95,3 +65,34 @@ aside a.button {
     box-shadow: none; /* Optional: Remove shadow */
   }
 }
+
+
+#main-content h2:before {
+
+    color: $mycolor;
+
+}
+
+#main-content h1:before {
+
+    color: $mycolor;
+
+}
+
+#main-content h3 {
+
+    color: $mycolor;
+
+  }
+
+  #main-content h4 {
+
+    color: $mycolor;
+
+  }
+
+  #main-content h6 {
+
+    color: $mycolor;
+
+  }
