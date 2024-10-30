@@ -46,7 +46,7 @@
 @import "{{ site.theme }}";
 
 $mycolor: black;
-    $headingcolor: white;
+    $headingcolor: black;
 
 header {
 
@@ -97,8 +97,8 @@ aside a.button {
  }
 
 body {
-    background-color: #000; /* Solid black background */
-    color: #fff; /* White text for contrast */
+    background-color: #000000; /* Solid black background */
+    color: #FFFCF9; /* White text for contrast */
     margin: 0; /* Removes default margin */
     font-family: Arial, sans-serif; /* Optional: change font */
 }
