@@ -94,19 +94,13 @@ aside a.button {
 
     color: $mycolor;
 
-  }
-body {
-    background-image: url('IMG_1627.jpg');
-    background-size: cover; /* Ensures the image covers the entire background */
-    background-repeat: no-repeat; /* Prevents the image from repeating */
-    background-position: left; /* Centers the image */
-    height: 25vh; /* Makes sure the body takes full viewport height */
-    margin: 25; /* Removes default margin */
 }
 
 body {
-    background-color: #FFFEFD; /* Change this to your desired color */
-    color: #FFFEFD; /* Optional: change text color for contrast */
+    background-color: #000; /* Solid black background */
+    color: #fff; /* White text for contrast */
     margin: 0; /* Removes default margin */
     font-family: Arial, sans-serif; /* Optional: change font */
+}
+
 }
