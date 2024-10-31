@@ -5,7 +5,7 @@
   
   <img src="assets/css/IMG_4718.jpg" width="250" height="200" style="margin-right: 20px;"/>
 
-  <img src="[assets/css/IMG_4718.jpg](https://github.com/acsuarez84/Text-Tech-Portfolio/blob/df45e8e8e32b2d126766ac405ef486015f31d928/assets/css/IMG_3861.jpg)" width="250" height="200" style="margin-right: 20px;"/>
+  <img src="assets/css/IMG_3861.jpg" width="250" height="200" style="margin-right: 20px;"/>
 
 </div>
 
