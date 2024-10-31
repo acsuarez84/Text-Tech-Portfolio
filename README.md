@@ -1,8 +1,13 @@
 # PhD Student-Text & Technology, University of Central Florida
-<img align="left"> 
-<img src="https://github.com/user-attachments/assets/ffe372ef-71ce-4491-8097-48fa7006a7ea" width="200" height="200" style="margin-right: 20px;"/>
-<img src="assets/css/IMG_4718.jpg" width="250" height="200" style="margin-right: 20px;"/>
-<img src="assets/css/IMG_4718.jpg" width="250" height="200" style="margin-right: 20px;"/>
+<div style="display: flex; align-items: center;">
+
+  <img src="https://github.com/user-attachments/assets/ffe372ef-71ce-4491-8097-48fa7006a7ea" width="200" height="200" style="margin-right: 20px;"/>
+  
+  <img src="assets/css/IMG_4718.jpg" width="250" height="200" style="margin-right: 20px;"/>
+
+  <img src="assets/css/IMG_4718.jpg" width="250" height="200" style="margin-right: 20px;"/>
+
+</div>
 
 ### About Me
 My name is Angely C. Suarez DeJesus and I am currently pursuing a PhD in the Text & Technology doctoral program at  the University of Central Florida. 
