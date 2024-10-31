@@ -5,7 +5,7 @@
   
   <img src="assets/css/IMG_4718.jpg" width="250" height="200" style="margin-right: 20px;"/>
 
-  <img src="assets/css/IMG_3861.jpg" width="180" height="200" style="margin-right: 20px;"/>
+  <img src="assets/css/IMG_3861.jpg" width="150" height="200" style="margin-right: 20px;"/>
 
 </div>
 
