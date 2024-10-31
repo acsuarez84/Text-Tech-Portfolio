@@ -48,7 +48,7 @@ $mycolor: black; /* Set text color to white */
 $headingcolor: black; /* Set heading color to white */
 
 header {
-    background: 000000; /* Background color for header */
+    background: $mycolor; /* Background color for header */
 }
 
 header a.button {
