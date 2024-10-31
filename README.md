@@ -21,7 +21,7 @@ My interests are within the areas of rhetoric and composition. It entails the ex
 ### My World
 <div style="display: flex; align-items: center;">
 
-  <img src="assets/css/IMG_3227.jpg" width="200" height="200" style="margin-right: 20px;"/>
+  <img src="assets/css/IMG_3227.jpg" width="275" height="200" style="margin-right: 20px;"/>
   
   <img src="assets/css/IMG_4718.jpg" width="250" height="200" style="margin-right: 20px;"/>
 
