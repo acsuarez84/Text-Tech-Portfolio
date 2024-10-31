@@ -1,4 +1,4 @@
-# PhD Student-Text & Technology, University of Central Florida
+## PhD Student-Text & Technology, University of Central Florida
 <div style="display: flex; align-items: center;">
 
   <img src="https://github.com/user-attachments/assets/ffe372ef-71ce-4491-8097-48fa7006a7ea" width="200" height="200" style="margin-right: 20px;"/>
@@ -18,6 +18,15 @@ My interests are within the areas of rhetoric and composition. It entails the ex
 - Digital Humanities
 - Digital Media
 
+### My World
+<div style="display: flex; align-items: center;">
+
+  <img src="https://github.com/user-attachments/assets/ffe372ef-71ce-4491-8097-48fa7006a7ea" width="200" height="200" style="margin-right: 20px;"/>
+  
+  <img src="assets/css/IMG_4718.jpg" width="250" height="200" style="margin-right: 20px;"/>
+
+  <img src="assets/css/IMG_3861.jpg" width="150" height="200" style="margin-right: 20px;"/>
+  
 ### Contact
 - Email: an285811@ucf.edu
 
