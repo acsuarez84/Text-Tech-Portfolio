@@ -11,7 +11,7 @@
 #sidebar {
   width: 250px; /* Adjust width as necessary */
   padding: 20px;
-  background-color: #1D00FC; /* Example background color */
+  background-color: #000000; /* Example background color */
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
   color: white; /* Set text color to white for sidebar */
 }
@@ -20,7 +20,7 @@
   display: block; /* Make links appear as buttons */
   padding: 10px;
   margin: 5px 0;
-  background-color: #007BFF; /* Example button color */
+  background-color: #000000; /* Example button color */
   color: white; /* Text color for buttons */
   text-align: center;
   text-decoration: none;
@@ -28,7 +28,7 @@
 }
 
 .button:hover {
-  background-color: #0056b3; /* Darker on hover */
+  background-color: #001DFF; /* Darker on hover */
 }
 
 @media (max-width: 768px) {
@@ -48,7 +48,7 @@ $mycolor: white; /* Set text color to white */
 $headingcolor: white; /* Set heading color to white */
 
 header {
-    background: $mycolor; /* Background color for header */
+    background: 000000; /* Background color for header */
 }
 
 header a.button {
