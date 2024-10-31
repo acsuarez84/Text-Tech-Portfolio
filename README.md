@@ -19,6 +19,7 @@ My interests are within the areas of rhetoric and composition. It entails the ex
 - Digital Media
 
 ### My World
+I love family and travel...The beach is my happy place!!
 <div style="display: flex; align-items: center;">
 
   <img src="assets/css/IMG_3227.jpg" width="275" height="200" style="margin-right: 20px;"/>
