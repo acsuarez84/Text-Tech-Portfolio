@@ -25,7 +25,7 @@ My interests are within the areas of rhetoric and composition. It entails the ex
   
   <img src="assets/css/IMG_4718.jpg" width="250" height="200" style="margin-right: 20px;"/>
 
-  <img src="assets/css/IMG_1627.jpg" width="150" height="200" style="margin-right: 20px;"/>
+  <img src="assets/css/IMG_1627.jpg" width="350" height="200" style="margin-right: 20px;"/>
   
 ### Contact
 - Email: an285811@ucf.edu
