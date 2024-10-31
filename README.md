@@ -1,7 +1,7 @@
 # PhD Student-Text & Technology, University of Central Florida
 <img align="left"> 
 <img src="https://github.com/user-attachments/assets/ffe372ef-71ce-4491-8097-48fa7006a7ea" width="200" height="200" style="margin-right: 20px;" />
-<img src="assets/css/IMG_4718.jpg" width="200" height="200" style="margin-right: 20px;" />
+<img src="assets/css/IMG_4718.jpg" width="400" height="200" style="margin-right: 20px;" />
 <img src="IMG_3906 (1).jpg" width="200" height="200" style="margin-right: 20px;" />
 
 ### About Me
