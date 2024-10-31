@@ -99,9 +99,9 @@ aside a.button {
 body {
     background-color: #0000; // Replace with your desired color
     background-image: url(IMG_3228.jpg);
-    background-size: 100% 100%; /* Ensures the image covers the entire background */
+    background-size: 500% 50%; /* Ensures the image covers the entire background */
     background-repeat: no-repeat; /* Prevents the image from repeating */
     background-position: center; /* Centers the image */
-    height: 100vh; /* Makes sure the body takes full viewport height */
+    height: 50vh; /* Makes sure the body takes full viewport height */
     margin: 0; /* Removes default margin */
 }
