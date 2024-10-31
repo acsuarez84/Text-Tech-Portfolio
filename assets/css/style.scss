@@ -97,10 +97,10 @@ aside a.button {
  }
 
 body {
-    background-image: url('https://your-image-url-here');
+    background-image: url(IMG_3228.jpg);
     background-size: cover; /* Ensures the image covers the entire background */
     background-repeat: no-repeat; /* Prevents the image from repeating */
     background-position: center; /* Centers the image */
     height: 100vh; /* Makes sure the body takes full viewport height */
-    margin: 0; /* Removes default margin */
+    margin: 100; /* Removes default margin */
 }
