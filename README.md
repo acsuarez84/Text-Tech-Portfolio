@@ -11,13 +11,6 @@ My interests are within the areas of rhetoric and composition. It entails the ex
 - Digital Humanities
 - Digital Media
 
-### Curriculum Vitae
-- Click here
-
 ### Contact
 - Email: an285811@ucf.edu
 
-### Follow Me
-- [M.A in Educational Leadership Course Projects](https://sites.google.com/view/angely-suarez-dejesus/home)
-
-- [Github Career Portfolio](https://acsuarez84.github.io/Career-Portfolio/)
