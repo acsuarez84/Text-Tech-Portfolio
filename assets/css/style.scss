@@ -1,6 +1,3 @@
----
----
-
 #content-wrapper {
   display: flex;
 }
@@ -8,6 +5,7 @@
 #main-content {
   flex: 1; /* Takes the remaining space */
   padding: 20px;
+  color: white; /* Set text color to white for main content */
 }
 
 #sidebar {
@@ -15,6 +13,7 @@
   padding: 20px;
   background-color: #1D00FC; /* Example background color */
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  color: white; /* Set text color to white for sidebar */
 }
 
 .button {
@@ -22,7 +21,7 @@
   padding: 10px;
   margin: 5px 0;
   background-color: #007BFF; /* Example button color */
-  color: white;
+  color: white; /* Text color for buttons */
   text-align: center;
   text-decoration: none;
   border-radius: 5px;
@@ -45,63 +44,47 @@
 
 @import "{{ site.theme }}";
 
-$mycolor: black;
-    $headingcolor: black;
+$mycolor: white; /* Set text color to white */
+$headingcolor: white; /* Set heading color to white */
 
 header {
-
-    background: $mycolor;
-
+    background: $mycolor; /* Background color for header */
 }
 
 header a.button {
-
-    background: $mycolor
-
+    background: $mycolor; /* You may want to change this to a different color */
 }
 
 aside a.button {
-
-    background: $mycolor
-
+    background: $mycolor; /* You may want to change this to a different color */
 }
 
 #main-content h2:before {
-
-    color: $mycolor;
-
+    color: $mycolor; /* Color for h2 before element */
 }
 
 #main-content h1:before {
-
-    color: $mycolor;
-
+    color: $mycolor; /* Color for h1 before element */
 }
 
 #main-content h3 {
+    color: $mycolor; /* Color for h3 headings */
+}
 
-    color: $mycolor;
+#main-content h4 {
+    color: $mycolor; /* Color for h4 headings */
+}
 
-  }
-
-  #main-content h4 {
-
-    color: $mycolor;
-
-  }
-
-  #main-content h6 {
-
-    color: $mycolor;
-
- }
+#main-content h6 {
+    color: $mycolor; /* Color for h6 headings */
+}
 
 body {
-    background-color: #0000; // Replace with your desired color
+    background-color: #0000; /* Replace with your desired color */
     background-image: url(IMG_3228.jpg);
-    background-size: 500% 50%; /* Ensures the image covers the entire background */
+    background-size: 50% 50%; /* Set background size to 50% 50% */
     background-repeat: no-repeat; /* Prevents the image from repeating */
     background-position: center; /* Centers the image */
-    height: 50vh; /* Makes sure the body takes full viewport height */
+    height: 50vh; /* Set height to 50vh */
     margin: 0; /* Removes default margin */
 }
