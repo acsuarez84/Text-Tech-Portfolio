@@ -25,6 +25,7 @@ In my free time, I love to take pictures of anything that sparks my curiosity or
 <div class="flex-container">
   <img src="assets/css/Bike riding image.jpg" width="275" height="200" style="margin-right: 20px;"/>
   In memory of Bob! Rest in well our fearless captain!
+  
   <img src="assets/css/IMG_2171.jpg" width="200" height="200" style="margin-right: 20px;"/>
   <img src="assets/css/IMG_2174.jpg" width="200" height="200" style="margin-right: 20px;"/>
   <img src="assets/css/IMG_2190.jpg" width="200" height="200" style="margin-right: 20px;"/>
@@ -34,9 +35,6 @@ In my free time, I love to take pictures of anything that sparks my curiosity or
 ### Under The Sea...
 <div class="flex-container">
   <img src="assets/css/IMG_3475.jpg" width="275" height="200" style="margin-right: 20px;"/>
-  <img src="assets/css/IMG_3471.jpg" width="275" height="200" style="margin-right: 20px;"/>
-  <img src="assets/css/IMG_3480.jpg" width="275" height="200" style="margin-right: 20px;"/>
-  <img src="assets/css/IMG_3481.jpg" width="200" height="200" style="margin-right: 20px;"/>
   <img src="assets/css/IMG_3488.jpg" width="150" height="200" style="margin-right: 20px;"/>
   <img src="assets/css/IMG_3507.jpg" width="150" height="200" style="margin-right: 20px;"/>
   <img src="assets/css/IMG_3509.jpg" width="150" height="200" style="margin-right: 20px;"/>
