@@ -57,11 +57,11 @@ In memory of Bob! Rest in well our fearless captain!
 
   <img src="assets/css/IMG_3481.jpg" width="275" height="200" style="margin-right: 20px;"/>
 
-  <img src="assets/css/IMG_3488.jpg" width="275" height="200" style="margin-right: 20px;"/>
+  <img src="assets/css/IMG_3488.jpg" width="200" height="200" style="margin-right: 20px;"/>
 
-  <img src="assets/css/IMG_3507.jpg" width="275" height="200" style="margin-right: 20px;"/>
+  <img src="assets/css/IMG_3507.jpg" width="200" height="200" style="margin-right: 20px;"/>
 
-   <img src="assets/css/IMG_3509.jpg" width="275" height="200" style="margin-right: 20px;"/>
+   <img src="assets/css/IMG_3509.jpg" width="200" height="200" style="margin-right: 20px;"/>
 
 ---
 ### Contact
