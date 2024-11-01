@@ -36,7 +36,7 @@ In memory of Bob! Rest in well our fearless captain!
   
   
   ### Nature
-  <img src="assets/css/IMG_2171.jpg" width="250" height="200" style="margin-right: 20px;"/>
+  <img src="assets/css/IMG_2171.jpg" width="200" height="200" style="margin-right: 20px;"/>
 
   <img src="assets/css/IMG_2174.jpg" width="200" height="200" style="margin-right: 20px;"/>
 
