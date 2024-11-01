@@ -36,7 +36,6 @@ In my free time, I love to take pictures of anything that sparks my curiosity or
 <div class="flex-container">
   <img src="assets/css/IMG_3475.jpg" width="275" height="200" style="margin-right: 20px;"/>
   <img src="assets/css/IMG_3488.jpg" width="150" height="200" style="margin-right: 20px;"/>
-  <img src="assets/css/IMG_3507.jpg" width="150" height="200" style="margin-right: 20px;"/>
   <img src="assets/css/IMG_3509.jpg" width="150" height="200" style="margin-right: 20px;"/>
   <img src="assets/css/IMG_3533.jpg" width="165" height="200" style="margin-right: 20px;"/>
 </div>
