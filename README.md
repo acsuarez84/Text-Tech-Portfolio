@@ -14,7 +14,9 @@ My interests are within the areas of rhetoric and composition. It entails the ex
 - Digital Humanities
 - Digital Media
 
-### My World
+---
+
+## My World
 I love family and travel...The beach is my happy place!!
 <div style="display: flex; align-items: center;">
 
@@ -23,7 +25,25 @@ I love family and travel...The beach is my happy place!!
   <img src="assets/css/IMG_4718.jpg" width="250" height="200" style="margin-right: 20px;"/>
 
   <img src="assets/css/IMG_1627.jpg" width="350" height="200" style="margin-right: 20px;"/>
+
+---
+# My Hobby
+In my free time, I love to take pictures of anything that sparks my curiosity or creates a unique moment. I like using technological tools and test their editing limitation to either alter reality through their editing features or simply, capture that which has true beauty... NATURE ITSELF! Hence, with my little ole' cell phone, I captured these and played with editing its high contrasts. 
+<div style="display: flex; align-items: center;">
+
+  <img src="assets/css/Bike riding image.jpg" width="275" height="200" style="margin-right: 20px;"/>
+  <p In memory of Bob! Rest in well our fearless captain!/p>
   
+  ### Nature
+  <img src="assets/css/IMG_2171.jpg" width="250" height="200" style="margin-right: 20px;"/>
+
+  <img src="assets/css/IMG_2174.jpg" width="350" height="200" style="margin-right: 20px;"/>
+
+  <img src="assets/css/IMG_2190.jpg" width="350" height="200" style="margin-right: 20px;"/>
+
+  <img src="assets/css/IMG_2198.jpg" width="350" height="200" style="margin-right: 20px;"/>
+
+---
 ### Contact
 - Email: an285811@ucf.edu
 
