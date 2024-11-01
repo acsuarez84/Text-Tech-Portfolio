@@ -45,6 +45,12 @@ In memory of Bob! Rest in well our fearless captain!
 
   <img src="assets/css/IMG_2198.jpg" width="200" height="200" style="margin-right: 20px;"/>
 
+  
+  ### Unnder The Sea...
+  <div style="display: flex; align-items: center;">
+
+  <img src="assets/css/IMG_3475.jpg" width="275" height="200" style="margin-right: 20px;"/>
+
 ---
 ### Contact
 - Email: an285811@ucf.edu
