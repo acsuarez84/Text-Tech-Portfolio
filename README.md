@@ -1,29 +1,3 @@
-<style>
-  h2, h3, p {
-      white-space: nowrap; /* Prevent text from wrapping */
-  }
-
-  /* Flexbox adjustments */
-  .flex-container {
-      display: flex;
-      align-items: center;
-      flex-wrap: nowrap; /* Prevent items from wrapping */
-  }
-
-  /* Optional: Control overflow */
-  p {
-      overflow: hidden; /* Hides overflowing text */
-      text-overflow: ellipsis; /* Displays ellipsis for overflow */
-  }
-
-  /* Media query for responsiveness */
-  @media (min-width: 768px) {
-      h2, h3, p {
-          white-space: nowrap;
-      }
-  }
-</style>
-
 ## PhD Student-Text & Technology, University of Central Florida
 <div class="flex-container">
   <img src="https://github.com/user-attachments/assets/ffe372ef-71ce-4491-8097-48fa7006a7ea" width="200" height="200" style="margin-right: 20px;"/>
