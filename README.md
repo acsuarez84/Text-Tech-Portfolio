@@ -63,7 +63,7 @@ In memory of Bob! Rest in well our fearless captain!
 
   <img src="assets/css/IMG_3509.jpg" width="150" height="200" style="margin-right: 20px;"/>
 
-  <img src="assets/css/IMG_3533.jpg" width="180" height="200" style="margin-right: 20px;"/>
+  <img src="assets/css/IMG_3533.jpg" width="160" height="200" style="margin-right: 20px;"/>
 
 ---
 ### Contact
