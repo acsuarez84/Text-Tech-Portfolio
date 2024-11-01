@@ -32,16 +32,17 @@ In my free time, I love to take pictures of anything that sparks my curiosity or
 <div style="display: flex; align-items: center;">
 
   <img src="assets/css/Bike riding image.jpg" width="275" height="200" style="margin-right: 20px;"/>
-  <p In memory of Bob! Rest in well our fearless captain!/p>
+In memory of Bob! Rest in well our fearless captain!
+  
   
   ### Nature
   <img src="assets/css/IMG_2171.jpg" width="250" height="200" style="margin-right: 20px;"/>
 
-  <img src="assets/css/IMG_2174.jpg" width="350" height="200" style="margin-right: 20px;"/>
+  <img src="assets/css/IMG_2174.jpg" width="200" height="200" style="margin-right: 20px;"/>
 
-  <img src="assets/css/IMG_2190.jpg" width="350" height="200" style="margin-right: 20px;"/>
+  <img src="assets/css/IMG_2190.jpg" width="200" height="200" style="margin-right: 20px;"/>
 
-  <img src="assets/css/IMG_2198.jpg" width="350" height="200" style="margin-right: 20px;"/>
+  <img src="assets/css/IMG_2198.jpg" width="2000" height="200" style="margin-right: 20px;"/>
 
 ---
 ### Contact
