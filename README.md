@@ -42,7 +42,7 @@ In memory of Bob! Rest in well our fearless captain!
 
   <img src="assets/css/IMG_2190.jpg" width="200" height="200" style="margin-right: 20px;"/>
 
-  <img src="assets/css/IMG_2198.jpg" width="2000" height="200" style="margin-right: 20px;"/>
+  <img src="assets/css/IMG_2198.jpg" width="200" height="200" style="margin-right: 20px;"/>
 
 ---
 ### Contact
