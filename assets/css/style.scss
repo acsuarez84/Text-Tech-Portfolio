@@ -11,7 +11,7 @@
 #sidebar {
   width: 250px; /* Adjust width as necessary */
   padding: 20px;
-  background-color: #000000; /* Example background color */
+  background-color: #000000; /* Background color for sidebar */
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
   color: white; /* Set text color to white for sidebar */
 }
@@ -20,7 +20,7 @@
   display: block; /* Make links appear as buttons */
   padding: 10px;
   margin: 5px 0;
-  background-color: #000000; /* Example button color */
+  background-color: #000000; /* Button color */
   color: white; /* Text color for buttons */
   text-align: center;
   text-decoration: none;
@@ -44,39 +44,28 @@
 
 @import "{{ site.theme }}";
 
-$mycolor: black; /* Set text color to white */
-$headingcolor: black; /* Set heading color to white */
+$mycolor: black; /* Set color to black */
+$headingcolor: black; /* Set heading color to black */
 
 header {
     background: $mycolor; /* Background color for header */
+    color: white; /* Text color in the header */
 }
 
 header a.button {
-    background: $mycolor; /* You may want to change this to a different color */
+    background: $mycolor; /* Button color in header */
 }
 
 aside a.button {
-    background: $mycolor; /* You may want to change this to a different color */
+    background: $mycolor; /* Button color in sidebar */
 }
 
-#main-content h2:before {
-    color: $mycolor; /* Color for h2 before element */
-}
-
-#main-content h1:before {
-    color: $mycolor; /* Color for h1 before element */
-}
-
-#main-content h3 {
-    color: $mycolor; /* Color for h3 headings */
-}
-
-#main-content h4 {
-    color: $mycolor; /* Color for h4 headings */
-}
-
+#main-content h2:before,
+#main-content h1:before,
+#main-content h3,
+#main-content h4,
 #main-content h6 {
-    color: $mycolor; /* Color for h6 headings */
+    color: $mycolor; /* Set heading colors to black */
 }
 
 body {
@@ -87,3 +76,4 @@ body {
     height: 100vh; /* Set height to 50vh */
     margin: 0; /* Removes default margin */
 }
+
