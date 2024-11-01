@@ -30,7 +30,7 @@ I love family and travel...The beach is my happy place!!
 
 ### My Hobby
 In my free time, I love to take pictures of anything that sparks my curiosity or creates a unique moment. I like using technological tools and test their editing limitation to either alter reality through their editing features or simply, capture that which has true beauty... NATURE ITSELF! Hence, with my little ole' cell phone, I captured these and played with editing its high contrasts. 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: left;">
 
   <img src="assets/css/Bike riding image.jpg" width="275" height="200" style="margin-right: 20px;"/>
 In memory of Bob! Rest in well our fearless captain!
