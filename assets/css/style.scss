@@ -93,3 +93,10 @@ aside a.button {
     color: $mycolor;
 
  }
+
+ body {
+    background-image: url('IMG_3867-2.jpg'); /* Replace with your image path */
+    background-size: cover; /* Adjusts the image to cover the entire background */
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; /* Prevents the image from tiling */
+}
