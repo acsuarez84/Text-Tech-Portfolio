@@ -17,7 +17,7 @@ I love family and travel...The beach is my happy place!!
 <div class="flex-container">
   <img src="assets/css/IMG_3227.jpg" width="275" height="200" style="margin-right: 20px;"/>
   <img src="assets/css/IMG_4718.jpg" width="250" height="200" style="margin-right: 20px;"/>
-  <img src="assets/css/IMG_1627.jpg" width="350" height="200" style="margin-right: 20px;"/>
+  <img src="assets/css/IMG_1627.jpg" width="250" height="100" style="margin-right: 20px;"/>
 </div>
 
 ### My Hobby
