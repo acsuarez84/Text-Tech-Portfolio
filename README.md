@@ -15,24 +15,24 @@ My name is Angely C. Suarez DeJesus and I am currently pursuing a PhD in the Tex
 ### My World
 I love family and travel...The beach is my happy place!!
 <div class="flex-container">
-  <img src="assets/css/IMG_3227.jpg" width="275" height="200" style="margin-right: 20px;"/>
-  <img src="assets/css/IMG_4718.jpg" width="250" height="200" style="margin-right: 20px;"/>
-  <img src="assets/css/IMG_1627.jpg" width="275" height="200" style="margin-right: 20px;"/>
+  <img src="assets/css/IMG_3227.jpg" width="275" height="200" style="margin-right: 10px;"/>
+  <img src="assets/css/IMG_4718.jpg" width="250" height="200" style="margin-right: 10px;"/>
+  <img src="assets/css/IMG_1627.jpg" width="275" height="200" style="margin-right: 10px;"/>
 </div>
 
 ### My Hobby
 In my free time, I love to take pictures of anything that sparks my curiosity or creates a unique moment. I like using technological tools and test their editing limitation to either alter reality through their editing features or simply, capture that which has true beauty... NATURE ITSELF! Hence, with my little ole' cell phone, I captured these and played with editing its high contrasts.
 <div class="flex-container">
-  <img src="assets/css/IMG_2171.jpg" width="180" height="200" style="margin-right: 20px;"/>
-  <img src="assets/css/IMG_2174.jpg" width="200" height="200" style="margin-right: 20px;"/>
-  <img src="assets/css/IMG_2198.jpg" width="200" height="200" style="margin-right: 20px;"/>
+  <img src="assets/css/IMG_2171.jpg" width="180" height="200" style="margin-right: 10px;"/>
+  <img src="assets/css/IMG_2174.jpg" width="200" height="200" style="margin-right: 10px;"/>
+  <img src="assets/css/IMG_2198.jpg" width="200" height="200" style="margin-right: 10px;"/>
 </div>
 
 ### Under The Sea...
 <div class="flex-container">
-  <img src="assets/css/IMG_3475.jpg" width="275" height="200" style="margin-right: 20px;"/>
-  <img src="assets/css/IMG_3509.jpg" width="150" height="200" style="margin-right: 20px;"/>
-  <img src="assets/css/IMG_3533.jpg" width="165" height="200" style="margin-right: 20px;"/>
+  <img src="assets/css/IMG_3475.jpg" width="275" height="200" style="margin-right: 10px;"/>
+  <img src="assets/css/IMG_3509.jpg" width="150" height="200" style="margin-right: 10px;"/>
+  <img src="assets/css/IMG_3533.jpg" width="165" height="200" style="margin-right: 10px;"/>
 </div>
 
 ---
